@@ -1,0 +1,14 @@
+.red {
+  width: 1000px;
+  height: 50px;
+  background-color: red;
+}
+.white {
+  width: 1000px;
+  height: 50px;
+  background-color: white;
+}
+img {
+  height: 350px;
+  position: absolute;
+}
